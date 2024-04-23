@@ -1,11 +1,11 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Hüseyin Kılınçarslan</h1>
 
-I have been actively developing mobile applications with ***React Native*** and ***Flutter*** for
-more than 1 year. I am improving myself in ***Swift*** and ***Kotlin*** technologies for better mobile applications.
-Since I am also interested in ***Backend***, I am improving myself in ***Go*** and ***Node*** technologies. 
-I developed ***RestAPI***s using ***Flask***. In the past, I also developed ***image processing*** and ***artificial intelligence***
+<p>I have been actively developing mobile applications with <strong>React Native</strong> and <strong>Flutter</strong> for
+more than 1 year. I am improving myself in <strong>Swift</strong> and <strong>Kotlin</strong> technologies for better mobile applications.
+Since I am also interested in <strong>Backend</strong> I am improving myself in <strong>Go</strong> and <strong>Node</strong> technologies. 
+I developed <strong>RestAPI</strong>s using <strong>Flask</strong>. In the past, I also developed <strong>image processing</strong> and <strong>artificial intelligence</strong>
 projects in Python.
-  
+  </p>
 <h6 align="right">
   Last Update 23.04.2024
   </h6>
@@ -13,7 +13,7 @@ projects in Python.
 
 - 🔭 I’m currently working on [ChaiNews](https://chainews.org/)
 
-- 👨‍💻 I’m currently learning ***Mobile Application***
+- 👨‍💻 I’m currently learning <strong>Mobile Application</strong>
 
 - 📫 How to reach me **huseyin.kla1@gmail.com**
 
