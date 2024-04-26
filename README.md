@@ -6,9 +6,6 @@ Since I am also interested in <strong>Backend</strong> I am improving myself in 
 I developed <strong>RestAPI</strong>s using <strong>Flask</strong>. In the past, I also developed <strong>image processing</strong> and <strong>artificial intelligence</strong>
 projects in Python.
   </p>
-<h6 align="right">
-  Last Update 23.04.2024
-  </h6>
 
 
 - 🔭 I’m currently working on [ChaiNews](https://chainews.org/)
