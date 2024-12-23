@@ -1,16 +1,21 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Hüseyin Kılınçarslan</h1>
 
-<p>I have been actively developing mobile applications with <strong>React Native</strong> and <strong>Flutter</strong> for
-more than 1 year. I am improving myself in <strong>Swift</strong> and <strong>Kotlin</strong> technologies for better mobile applications.
-Since I am also interested in <strong>Backend</strong> I am improving myself in <strong>Go</strong> and <strong>Node</strong> technologies. 
-I developed <strong>RestAPI</strong>s using <strong>Flask</strong>. In the past, I also developed <strong>image processing</strong> and <strong>artificial intelligence</strong>
-projects in Python.
+<p>I am a passionate and results-driven software developer with a strong foundation in full-stack application development.
+I hold a Bachelor’s degree and graduated with a 3.61 GPA. With experience spanning diverse technologies such as
+C#, .NET, Angular, React Native, and Spring Boot, I have developed robust solutions adhering to principles like
+Clean Architecture, SOLID, and object-oriented programming. My expertise extends to building efficient APIs,
+user-centric interfaces, and scalable microservices. In addition to my technical skills, I have a proven track record of
+collaborating effectively with cross-functional teams, leveraging tools like Git, Jira, and Jenkins to ensure seamless
+project delivery. Passionate about innovation and continuous learning, I actively participate in tech communities
+and have led initiatives such as the MEBLORED community, focusing on Metaverse and Blockchain RD. With a
+commitment to delivering impactful solutions, I bring both technical acumen and a proactive approach to problem-
+solving, striving to contribute meaningfully to every project I undertake.
   </p>
 
 
 - 🔭 I’m currently working on [ChaiNews](https://chainews.org/)
 
-- 👨‍💻 I’m currently learning <strong>Mobile Application</strong>
+- 👨‍💻 I’m currently learning <strong>Backend Technologies</strong>
 
 - 📫 How to reach me **huseyin.kla1@gmail.com**
 
